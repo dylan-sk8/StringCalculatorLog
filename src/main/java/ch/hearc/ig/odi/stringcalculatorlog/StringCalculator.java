@@ -56,7 +56,6 @@ public class StringCalculator {
                 Integer numberInt = Integer.parseInt(number);
                 if (numberInt < 0){
                     negativeNumbers.add(numberInt);
-                    LOGGER.warn("Negative number detected: " + numberInt);
                 }
                 else if (numberInt <= 1000)
                     returnValue += Integer.parseInt(number.trim());
