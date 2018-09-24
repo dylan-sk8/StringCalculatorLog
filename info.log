@@ -1,0 +1,11 @@
+14:23:22:787 [main] FATAL ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Negative not allowed: [-2]
+14:23:22:795 [main] FATAL ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Negative not allowed: [-2, -5, -1]
+15:09:11:545 [main] INFO  ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Delimiter is ';'
+15:09:11:560 [main] WARN  ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Negative number detected: -2
+15:09:11:560 [main] FATAL ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Negative not allowed: [-2]
+15:09:11:560 [main] WARN  ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Number greater than 1000 detected [1001], it'll not be taken into account.
+15:09:11:560 [main] WARN  ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Number greater than 1000 detected [1203], it'll not be taken into account.
+15:09:11:560 [main] WARN  ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Negative number detected: -2
+15:09:11:560 [main] WARN  ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Negative number detected: -5
+15:09:11:560 [main] WARN  ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Negative number detected: -1
+15:09:11:560 [main] FATAL ch.hearc.ig.odi.stringcalculatorlog.StringCalculator - Negative not allowed: [-2, -5, -1]
